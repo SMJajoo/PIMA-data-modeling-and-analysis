@@ -4,10 +4,12 @@ context of decision support for the healthcare sector where accurate predictive 
 to care. Processing methodologies are assesed with reference to the relevant Accuracy and False Positive metrics. Analysis and comparison of the results 
 suggest that imputation alone can likely impact classifier performance only marginally in situations where the data set is of sufficient size.
 
-**1. Project's Title:**
+1. Project's Title:
+
     Modelling, Analysis & Classification of the Pima Indians Diabetes Mellitus Dataset
 
-**2. Project Description:**
+2. Project Description:
+
     • Intro of project:
         This project looks at the effectiveness of different imputation techniques in supporting binary classification performance of the Logisitic Regression, 
         J48 decision tree and KNN classifiers in the context of decision support for the healthcare sector where accurate predictive models have the potential 
