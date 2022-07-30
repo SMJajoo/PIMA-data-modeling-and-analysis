@@ -23,9 +23,8 @@ Modelling, Analysis & Classification of the Pima Indians Diabetes Mellitus Datas
     • Faced challenges and features to hope to implement in the future:
         Overall the pre-processing approaches utilised were demonstrated to have minimal effectiveness in promoting classifier performance. A weakness of this 
         study was to limit exploration of pre-processing approaches largely to imputation techniques. More impactful analysis might have been obtained if the 
-        employed approaches had gone further by imposing more rigorous feature selection or transformation techniques as described in the papers mentioned above. 
-        An obvious point of further investigation would be in assessing the value of imputation at all, it may simply be situationally appropriate when the size 
-        of the data is constrained to the point where removing data will reduce the statistical power of the data set but further work would have to be undertaken
-        to demonstrate this.
+        employed approaches had gone further by imposing more rigorous feature selection or transformation techniques. An obvious point of further investigation 
+        would be in assessing the value of imputation at all, it may simply be situationally appropriate when the size of the data is constrained to the point 
+        where removing data will reduce the statistical power of the data set but further work would have to be undertaken to demonstrate this.
 
 
