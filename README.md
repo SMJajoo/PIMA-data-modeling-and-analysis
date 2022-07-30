@@ -5,7 +5,7 @@ to care. Processing methodologies are assesed with reference to the relevant Acc
 suggest that imputation alone can likely impact classifier performance only marginally in situations where the data set is of sufficient size.
 
 1. Project's Title
-Modelling, Analysis & Classification of the Pima Indians Diabetes Mellitus Dataset
+    Modelling, Analysis & Classification of the Pima Indians Diabetes Mellitus Dataset
 
 2. Project Description
     • Intro of project:
